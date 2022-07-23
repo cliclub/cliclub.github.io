@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <atom:link href="https://cli.club/rss.xml" rel="self" type="application/rss+xml" />
-<title>CLI Club: Command-line Interface Tools & Alternatives</title>
+<title>CLI Club: Command-line Interface Tools and Alternatives</title>
 <description>
 A collection of the best CLI/Ncurses software covering a wide range of categories from messaging, music, text editing and more. 
 </description>

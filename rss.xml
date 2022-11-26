@@ -5,7 +5,14 @@
     <title>CLI Club</title>
     <link>https://cli.club</link>
     <description>Command-line Interface Tools and Alternatives</description>
-    <language>en-us</language>    
+    <language>en-us</language>
+   <item>
+      <title>Added "ncspot" Cross-platform ncurses Spotify client</title>
+      <pubDate>Sat, 26 Nov 2022 23:20:00 +0800</pubDate>
+      <link>https://cli.club/#music</link>
+      <guid>https://cli.club/#music</guid>
+      <description>ncspot is a ncurses Spotify client written in Rust using librespot. It is heavily inspired by ncurses MPD clients, such as ncmpc.</description>
+    </item>
    <item>
       <title>Added "Toxic" A Tox-based instant messaging and video chat client</title>
       <pubDate>Sat, 26 Nov 2022 20:15:00 +0800</pubDate>

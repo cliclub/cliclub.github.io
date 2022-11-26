@@ -7,11 +7,11 @@
     <description>Command-line Interface Tools and Alternatives</description>
     <language>en-us</language>    
    <item>
-      <title>Update</title>
+      <title>Added "Toxic" A Tox-based instant messaging and video chat client</title>
       <pubDate>Sat, 26 Nov 2022 20:15:00 +0800</pubDate>
-      <link>https://cli.club/#irc</link>
-      <guid>https://cli.club/#xmpp</guid>
-      <description>Description</description>
+      <link>https://cli.club/#tox</link>
+      <guid>https://cli.club/#tox</guid>
+      <description>Toxic is a client with an ncurses interface, written entirely in C. It has support for all basic features, as well as 1-on-1 audio/video chats, and is capable of working on bare-bones systems that lack graphical interfaces. Development is lead by Jfreegman.</description>
     </item>
   </channel>
 </rss>

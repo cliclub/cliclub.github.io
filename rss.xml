@@ -7,6 +7,13 @@
     <description>Command-line Interface Tools and Alternatives</description>
     <language>en-us</language>
    <item>
+      <title>Added "qrcp" Transfer files over Wi-Fi</title>
+      <pubDate>Sat, 27 Nov 2022 12:30:00 +0800</pubDate>
+      <link>https://cli.club/#tools</link>
+      <guid>https://cli.club/#tools</guid>
+      <description>Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.</description>
+    </item>
+   <item>
       <title>Added "ncspot" Cross-platform ncurses Spotify client</title>
       <pubDate>Sat, 26 Nov 2022 23:20:00 +0800</pubDate>
       <link>https://cli.club/#music</link>

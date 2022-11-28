@@ -7,6 +7,13 @@
     <description>Command-line Interface Tools and Alternatives</description>
     <language>en-us</language>
    <item>
+      <title>Added "ytfzf" Find and watch youtube videos from the terminal</title>
+      <pubDate>Sat, 29 Nov 2022 07:30:00 +0800</pubDate>
+      <link>https://cli.club/#video</link>
+      <guid>https://cli.club/#video</guid>
+      <description>A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl.</description>
+    </item>
+   <item>
       <title>Added "qrcp" Transfer files over Wi-Fi</title>
       <pubDate>Sat, 27 Nov 2022 12:30:00 +0800</pubDate>
       <link>https://cli.club/#tools</link>
